@@ -36,4 +36,5 @@ Alocação dinâmica de memória.
 O projeto foi desenvolvido com o propósito de praticar conceitos fundamentais da programação em C, aplicando estruturas de dados, funções, ponteiros, alocação dinâmica, manipulação de arquivos e organização de programas em módulos.
 
 Obs: para Entrar tem que usar o email da Ufg
+
 Link da apresentação: https://drive.google.com/file/d/1Mnwq-uLgkCXQXfAMQluUXoLsOECrB7v8/view?usp=drivesdk
